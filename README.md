@@ -1,0 +1,2 @@
+# encryption-and-decryption-using-intertwinned-patterns
+The Encrypt/Decrypt Tool is a Python-based GUI application that lets users encrypt and decrypt messages using a custom key and step value. Built with Tkinter for the interface, it includes customizable background images and sound effects using Pygame. Users can easily input a message, specify a key, and see the encrypted or decrypted result instantly. It's a straightforward tool for simple, pattern-based encryption tasks.
